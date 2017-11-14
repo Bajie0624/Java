@@ -1,3 +1,2 @@
-# Java
-Exercise
-hello world
+没有什么好介绍的，全都是很简单的java项目，记录自己进阶的过程，共勉。
+Hello world!
